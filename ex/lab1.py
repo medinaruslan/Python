@@ -128,11 +128,6 @@ x = txt[2:5]
 '''
 #ex4
 '''
-txt = "Hello World"
-x = txt[2:5]
-'''
-#ex4
-'''
 txt = " Hello World "
 x = txt.strip()
 '''
