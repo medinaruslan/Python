@@ -1,0 +1,6 @@
+Ruslan Medina
+Animate a shape
+Animate a shape (e.g., a rectangle or circle) by changing its size over time.
+Create a continuous loop for the animation.
+Adjust the animation speed based on user input (e.g., increase speed when a specific key is pressed).
+Write a description for your code.
