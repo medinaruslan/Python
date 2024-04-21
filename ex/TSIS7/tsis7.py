@@ -11,7 +11,6 @@ background_image = pygame.image.load("background.jpg") #добавила бэк�
 background_image = pygame.transform.scale(background_image, win_size)  #бэкграунд подогнала до уровня окна
 
 #название цветов для применения в будущем
-BLACK = (0, 0, 0)
 GREEN = (0, 128, 0)
 LIGHT_GREEN = (144, 238, 144)
 LIGHT_BLUE = (173, 216, 230)
